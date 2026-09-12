@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "0I+ZX3VIVb4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CYBER ARTEL\\Desktop\\lesson\\lesson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CYBER ARTEL\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\CYBER ARTEL\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.12\\microsoft.entityframeworkcore.10.0.12.nupkg.sha512",
+    "C:\\Users\\CYBER ARTEL\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.12\\microsoft.entityframeworkcore.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\CYBER ARTEL\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.12\\microsoft.entityframeworkcore.analyzers.10.0.12.nupkg.sha512",
+    "C:\\Users\\CYBER ARTEL\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.12\\microsoft.entityframeworkcore.inmemory.10.0.12.nupkg.sha512",
+    "C:\\Users\\CYBER ARTEL\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "У пакета \"Microsoft.OpenApi\" 2.0.0 есть известная уязвимость https://github.com/advisories/GHSA-v5pm-xwqc-g5wc (уровень серьезности: высокий уровень)",
+      "projectPath": "C:\\Users\\CYBER ARTEL\\Desktop\\lesson\\lesson.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\CYBER ARTEL\\Desktop\\lesson\\lesson.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
